@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQLsxPq0mK4=",
+  "success": true,
+  "projectFilePath": "/home/mikkel/repos/System-Integration-1st-semester/01._Assignments/01a._Data_Parsing_Servers/csharp/csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/mikkel/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/home/mikkel/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/mikkel/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
