@@ -1,0 +1,32 @@
+<people>
+    <person>
+        <ID>1</ID>
+        <Name>Alice</Name>
+        <Age>28</Age>
+        <City>New York</City>
+    </person>
+    <person>
+        <ID>2</ID>
+        <Name>Bob</Name>
+        <Age>34</Age>
+        <City>Los Angeles</City>
+    </person>
+    <person>
+        <ID>3</ID>
+        <Name>Charlie</Name>
+        <Age>25</Age>
+        <City>Chicago</City>
+    </person>
+    <person>
+        <ID>4</ID>
+        <Name>David</Name>
+        <Age>40</Age>
+        <City>Houston</City>
+    </person>
+    <person>
+        <ID>5</ID>
+        <Name>Eve</Name>
+        <Age>22</Age>
+        <City>Miami</City>
+    </person>
+</people>
