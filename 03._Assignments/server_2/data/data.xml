@@ -1,0 +1,10 @@
+<me>
+    <name>Bob</name>
+    <age>25</age>
+    <hobbies>
+        <hobby>Art</hobby>
+        <hobby>Music</hobby>
+        <hobby>Modelling</hobby>
+        <hobby>Development</hobby>
+    </hobbies>
+</me>
